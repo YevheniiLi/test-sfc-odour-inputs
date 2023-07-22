@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb2ceeca.css",
-    "main.js": "/static/js/main.b986ff31.js",
-    "static/js/787.b6cd2947.chunk.js": "/static/js/787.b6cd2947.chunk.js",
-    "index.html": "/index.html",
-    "main.cb2ceeca.css.map": "/static/css/main.cb2ceeca.css.map",
-    "main.b986ff31.js.map": "/static/js/main.b986ff31.js.map",
-    "787.b6cd2947.chunk.js.map": "/static/js/787.b6cd2947.chunk.js.map"
+    "main.css": "/test-sfc-odour-inputs/static/css/main.cb2ceeca.css",
+    "main.js": "/test-sfc-odour-inputs/static/js/main.3a0a152e.js",
+    "static/js/787.b6cd2947.chunk.js": "/test-sfc-odour-inputs/static/js/787.b6cd2947.chunk.js",
+    "index.html": "/test-sfc-odour-inputs/index.html",
+    "main.cb2ceeca.css.map": "/test-sfc-odour-inputs/static/css/main.cb2ceeca.css.map",
+    "main.3a0a152e.js.map": "/test-sfc-odour-inputs/static/js/main.3a0a152e.js.map",
+    "787.b6cd2947.chunk.js.map": "/test-sfc-odour-inputs/static/js/787.b6cd2947.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb2ceeca.css",
-    "static/js/main.b986ff31.js"
+    "static/js/main.3a0a152e.js"
   ]
 }
