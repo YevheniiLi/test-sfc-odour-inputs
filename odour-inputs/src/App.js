@@ -54,7 +54,7 @@ function App() {
     <AppContainer>
       <MainSection>
         <Header>
-          <img src="/images/logo.svg" alt="Logo" width="150" />
+          <img src="images/logo.svg" alt="Logo" width="150" />
         </Header>
 
         <SectionContainer>
